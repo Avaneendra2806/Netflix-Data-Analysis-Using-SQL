@@ -115,4 +115,4 @@ This project addresses the following business questions using SQL:
 - 🐍 Python
 - 🗄️ SQL
 - 📊 Power BI
-- 📈 Data Analytics
+- 📈 Statistical Analysis
