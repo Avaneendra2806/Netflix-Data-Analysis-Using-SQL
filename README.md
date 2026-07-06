@@ -112,9 +112,7 @@ This project addresses the following business questions using SQL:
 🎯 Aspiring Data Analyst
 ### 💼 Skills
 - 📗 Excel
+- 🐍 Python
 - 🗄️ SQL
 - 📊 Power BI
-- 🐍 Python
----
-## ⭐ Support
-If you found this project useful or informative, consider giving this repository a **Star ⭐**. Your support is greatly appreciated!
+- 📈 Data Analytics
