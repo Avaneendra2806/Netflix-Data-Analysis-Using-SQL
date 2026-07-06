@@ -11,7 +11,7 @@ This project presents an end-to-end SQL data analysis of the Netflix Movies and 
 - Discover the longest movies and oldest released content.
 - Solve business problems using SQL queries.
 ---
-## 📊 Dataset Source: https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download `
+## 📊 Dataset Source: https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download
 The dataset contains information about Netflix Movies and TV Shows, including:
 - 🎬 Title
 - 📺 Content Type
