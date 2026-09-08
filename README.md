@@ -110,10 +110,11 @@ This project addresses the following business questions using SQL:
 ---
 ## 👨‍💻 Author
 **Avaneendra Swayampakala**
-🎯 Aspiring Data Analyst
+🎯 Looking for Entry Level Full time Data Analyst/Business Analyst
 ### 💼 Skills
 - 📗 Excel
 - 🐍 Python
 - 🗄️ SQL
 - 📊 Power BI
 - 📈 Statistical Analysis
+- ☁️ Cloud Analytics — Google BigQuery, Looker
