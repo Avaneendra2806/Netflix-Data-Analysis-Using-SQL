@@ -110,7 +110,7 @@ This project addresses the following business questions using SQL:
 ---
 ## 👨‍💻 Author
 **Avaneendra Swayampakala**
-🎯 Looking for Entry Level Full time Data Analyst/Business Analyst
+🎯 Looking for Entry Level Full time Data Analyst/Associate Data Analyst
 ### 💼 Skills
 - 📗 Excel
 - 🐍 Python
